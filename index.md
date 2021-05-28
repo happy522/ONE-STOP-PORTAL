@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+#ONE STOP GOVERNMENT PORTAL
 
-You can use the [editor on GitHub](https://github.com/happy522/OSPNew/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##PROBLEM ABSTRACT
+As of now, the Indian population is reaching 1.35 billion, and as India is still a developing country, not every citizen of the population is living an ideal life. The government is constantly making efforts to help that by making schemes, policies, and giving subsidies. But as that data is scattered all over the internet and not many people have information where exactly to look for it, many of those schemes are not being used to their full capacities. In addition to this Government provides its citizens many services like hospitals, police stations, fire stations, educational institutes such as schools, colleges, and government institutes like Jan Seva Kendra, RTI, and many more. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thus, we are proposing the idea of a one-stop, secure, and transparent portal. This portal will only allow you to sign-up using your Aadhar card only, making it a secure place, which will be verified using OTP. Then, personalized schemes and subsidies would be shown to the user according to the information gathered from their Aadhar card. Along with this, they will also be able to see all other Government-issued latest news and schemes or subsidies.  All the data will be stored using the Hash function/ cryptography. 
 
-### Markdown
+##Problem Identification and Definition
+For a more personalized experience, users can not only view the provided schemes, they can also apply for the same using the application forms provided. The status of those applications can be checked as well: status whether the form has been accepted or not if it is rejected, they can check the reason too. Users’ details will be auto-filled using the Aadhar card and other documents provided, but they can add or change all details as well. When the government adds new policies and schemes or passes new bills, people will get notified for the same along with having the feature to give comments to express their opinions for the same. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In addition to all, the user's Aadhar card has address information, from which we can give additional information like the nearest police station, Hospital, Educational institute, and all other government institutes. 
 
-```markdown
-Syntax highlighted code block
+In India, the government is constantly making efforts to help its citizens by making schemes, policies, and giving subsidies. But as that data is scattered all over the internet and not many people have information where exactly to look for it, many of those schemes are not being used to their full capacities. In addition to this Government provides their citizens many services like hospitals, police stations, fire stations, educational institutes such as schools, colleges, and government institutes like Jan Seva Kendra, RTI, and many more. But sometimes lack of knowledge leads citizens to the wrong office or if a citizen wants to contact particular government bodies. Sometimes, they don't have the right information. Also, citizens don’t have any dedicated medium through which they can interact or give their opinion to bills, schemes or policies that the government is passing. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/happy522/OSPNew/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thus, we are proposing the idea of a one-stop, secure, and transparent Government portal. This portal will only allow you to sign-up using your Aadhar card only, making it a secure place, which will be verified using OTP. Then, personalized schemes and subsidies would be shown to the user according to the information gathered from their Aadhar card. Along with this, they will also be able to see all other Government-issued latest news and schemes or subsidies. In addition to all, the user's Aadhar card has address information, from which we can give additional information like the nearest police station, Hospital, Educational institute, and all other government institutes.
